@@ -1,4 +1,4 @@
-```markdown
+
 # Build‑Your‑Own QNAP on Linux
 
 Two Bash scripts turn any Linux box into a **DIY QNAP‑style NAS**:
@@ -27,7 +27,7 @@ sudo ./build_your_own_qnap.sh --fs xfs # follow the prompts
 sudo ./provision_shares.sh     # again, follow prompts
 ```
 
----
+
 
 ## Prerequisites
 
