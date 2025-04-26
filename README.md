@@ -1,6 +1,8 @@
 
 # Build‑Your‑Own QNAP on Linux
 
+Author: Hazem Awadallah hazem.awadalla@gmail.com, Independent
+
 Two Bash scripts turn any Linux box into a **DIY QNAP‑style NAS**:
 
 1.  `build_your_own_qnap.sh` – creates the storage pool with **mdadm** + **LVM2** and (optionally) an SSD cache.
